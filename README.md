@@ -1,8 +1,8 @@
 # Twitter-Data-Classifier
 
-##*  Project Description
+## Project Description
 
-The goal of this project is to build machine learning models that can predict bias in Twitter data. The project involves preprocessing the text data, vectorizing the data, splitting the data into training and testing sets, training different classification models, and evaluating the performance of these models.
+The goal of this project is to build machine learning models that can predict bias in Twitter data. The project involves preprocessing the text data, vectorizing the data, splitting the data into training and testing sets, training different classification models, and evaluating the performance of these models. For anyone who wants to take a look and run the code without downloading locally use this link: https://www.kaggle.com/shanakiraj/twitterclassifier
 
 ### Technologies Used
 

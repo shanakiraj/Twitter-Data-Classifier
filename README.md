@@ -80,4 +80,4 @@ F1-score with best hyperparameters: 0.8311
 
 ### Conclusion
 
-Overall, the SVM model performed the best in terms of accuracy, precision, recall, and F1-score. However, the Naive Bayes model also performed well, especially in terms of precision. The Logistic Regression model performed the worst
+Overall, the SVM model performed the best in terms of accuracy, precision, recall, and F1-score. However, the Naive Bayes model also performed well, especially in terms of precision.

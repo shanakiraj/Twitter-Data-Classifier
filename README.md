@@ -13,7 +13,7 @@ The goal of this project is to build machine learning models that can predict bi
 * Matplotlib
 * Data
 
-The dataset used in this project is taken from Kaggle and includes 80,000 tweets labeled as either "biased" or "not biased." The tweets were collected using various search terms related to politics and news events. The dataset is available here
+The dataset used in this project is taken from Kaggle and includes 80,000 tweets labeled as either "biased" or "not biased." The tweets were collected using various search terms related to politics and news events.
 
 ### Preprocessing
 
